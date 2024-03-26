@@ -5,6 +5,7 @@
 //  Created by SCOTT CROWDER on 3/26/24.
 //
 
+import SwiftData
 import SwiftUI
 
 @main
@@ -13,5 +14,6 @@ struct DataStoreApp: App {
         WindowGroup {
             ContentView()
         }
+        .modelContainer(for: DataModel.self)
     }
 }
