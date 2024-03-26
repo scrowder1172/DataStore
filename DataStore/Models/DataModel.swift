@@ -19,4 +19,6 @@ final class DataModel {
         self.text = text
         self.priority = priority
     }
+    
+    static let SampleData: DataModel = DataModel(text: "Sample data", priority: 1)
 }
