@@ -4,6 +4,10 @@
 
 This is based off Chase's Medium articles about SwiftData. This project creates an iOS app that uses an API to retrieve large chunks of data and store them locally in SwiftData.
 
+### Branch: Introduction
+
+This code branch is based off Chase's introduction article. It creates the project and setups the initial SwiftData structure.
+
 ## Article Link
 
 You can find the articles here: 
